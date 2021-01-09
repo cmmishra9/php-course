@@ -5,7 +5,7 @@
 
 PHP was originally created by Rasmus Lerdorf in 1994. It was initially known as Personal Home Page.
 ## What You Can Do with PHP
-****
+
 There are lot more things you can do with **PHP**.
 
 * You can generate pages and files dynamically.
